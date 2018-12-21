@@ -1,0 +1,14 @@
+{
+  "name": "drupal/htaccess_import",
+  "type": "drupal-module",
+  "description": "A plugin for Redirect module, allows users to import 301 redirects from htaccess file",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/htaccess_import",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/htaccess_import",
+    "source": "http://cgit.drupalcode.org/htaccess_import"
+  },
+  "require": { }
+}

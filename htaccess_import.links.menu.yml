@@ -1,0 +1,6 @@
+htaccess_import.settings:
+  title: 'Reditect Import'
+  parent: redirect.list
+  route_name: htaccess_import.settings
+  description: ''
+  menu_name: admin
